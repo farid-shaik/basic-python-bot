@@ -1,3 +1,4 @@
 # basic-python-bot
-<h1>mmhy name is farid</h1>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPmtSV1IKYziOlnU6Okjw-jUTVsMD_xQuYWA&usqp=CAU" alt="actress" /img>
+<b>1. The objective of my bot is it gives to ingredients and requirements for preparing of a recipie.</b>
+<h2>2. this chat bot gives the required ingredients for preparing some yummy recipies</h2>
+<img src="Desktop/git.JPEG" alt="block diagram"/img>
